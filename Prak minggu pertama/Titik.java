@@ -14,7 +14,7 @@ public class Titik {
     Titik(double a, double b) {
         absis = a;
         ordinat = b;
-        counter++;
+        counterTitik++;
     }
 
     // mendeklarasi metode
