@@ -18,3 +18,9 @@ public class AngkaSial {
         }
     }
 }
+
+// Jawaban
+/*
+ * Pada bari ke 12 (di code pdf) tidak dapat dieksekusi
+ * dan untuk bari ke 21 (di code pdf) dapat di eksekusi
+ */
