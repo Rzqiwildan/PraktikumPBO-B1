@@ -1,8 +1,14 @@
+/*
+    File : AngkaSial.java
+    Deskripsi : Program penggunaan exception buatan sendiri 
+                pengenalan klausa 'throw' dan 'throws'
+*/
 public class AngkaSial {
     public void cobaAngka(int angka) throws AngkaSialException{
         if (angka == 13){
             throw new AngkaSialException();
         }
+        
         System.out.println(angka + "bukan angka sial");
     }
     public static void main(String[] args) {
@@ -21,6 +27,6 @@ public class AngkaSial {
 
 // Jawaban
 /*
- * Pada bari ke 12 (di code pdf) tidak dapat dieksekusi
- * dan untuk bari ke 21 (di code pdf) dapat di eksekusi
+ * Pada bari ke 12  tidak dieksekusi
+ * dan untuk bari ke 21 dapat di eksekusi ketika eksepsi terjadi
  */
