@@ -17,3 +17,6 @@ public class Asersi2 {
         System.out.println("keliling lingkaran = " + kelilingLingkaran);
     }
 }
+
+// Jawaban =
+/* Salah di asersi karena ketika jarijari diberikan nilai minus si asersi mengeluarkan output "jari jari tidak boleh nol" */
